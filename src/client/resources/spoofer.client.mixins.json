@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.tutla.spoofer.client.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinModsScreen",
+    "MixinModMain",
+    "DebugHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

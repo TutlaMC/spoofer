@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spoofer.client.iml" filepath="$PROJECT_DIR$/.idea/modules/Spoofer.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spoofer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spoofer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spoofer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spoofer.test.iml" />
+    </modules>
+  </component>
+</project>

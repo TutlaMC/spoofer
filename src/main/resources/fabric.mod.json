@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "spoofer",
+  "version": "${version}",
+  "name": "Spoofer",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/spoofer/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.tutla.spoofer.client.SpooferDataGenerator"
+    ],
+    "client": [
+      "net.tutla.spoofer.client.SpooferClient"
+    ],
+    "main": [
+      "net.tutla.spoofer.Spoofer"
+    ]
+  },
+  "mixins": [
+    "spoofer.mixins.json",
+    {
+      "config": "spoofer.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

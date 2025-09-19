@@ -1,0 +1,45 @@
+{
+  "toggleKey": 71,
+  "hiddenMods": [
+    "spoofer"
+  ],
+  "spoof": {
+    "fps": {
+      "title": "FPS",
+      "value": 0,
+      "default": 0,
+      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+    },
+    "gpu": {
+      "title": "GPU Name",
+      "value": "gyatt123",
+      "default": "",
+      "tooltip": "Clear it completely to use default GPU"
+    },
+    "coordinate_mode": {
+      "title": "Coordinate Mode",
+      "value": "DEFAULT",
+      "values": ["DEFAULT","RANDOM","FIXED","OFFSET"],
+      "default": "DEFAULT",
+      "tooltip": "How coordinates should be displayed on the f3 menu"
+    },
+    "x": {
+      "title": "X",
+      "value": 0,
+      "default": 0,
+      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+    },
+    "y": {
+      "title": "Y",
+      "value": 0,
+      "default": 0,
+      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+    },
+    "z": {
+      "title": "Z",
+      "value": 0,
+      "default": 0,
+      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+    }
+  }
+}
