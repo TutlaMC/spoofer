@@ -1,7 +1,3 @@
-Here’s a cleaner, more polished rewrite of your README, keeping your tone but making it sharper and easier to read:
-
----
-
 # Spoofer
 
 A Minecraft mod that lets you **spoof (fake!) your F3 menu and Mod Menu list**.
