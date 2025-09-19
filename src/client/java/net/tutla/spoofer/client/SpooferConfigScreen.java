@@ -23,7 +23,7 @@ public class SpooferConfigScreen {
     public static Screen create(Screen parent) {
         ConfigBuilder builder = ConfigBuilder.create()
                 .setParentScreen(parent)
-                .setTitle(Text.literal("Spoofer Config"));
+                .setTitle(Text.literal("Spoofer+ Config"));
 
         ConfigEntryBuilder entryBuilder = builder.entryBuilder();
 
