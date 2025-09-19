@@ -46,5 +46,3 @@ It is **not** intended for cheating, malicious use, or false advertising.
 Use responsibly.
 
 ---
-
-Do you want me to also **make it more "GitHub README-ready"** (with emojis, badges, installation instructions, etc.), or keep it plain-text like this?
