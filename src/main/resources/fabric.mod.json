@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "spoofer",
+  "id": "spoofer-plus",
   "version": "${version}",
-  "name": "Spoofer",
-  "description": "",
+  "name": "Spoofer+",
+  "description": "\uD83C\uDFAD Mod to hide mods & spoof your F3 menu for (privacy, humor and SMPs)",
   "authors": [],
   "contact": {},
   "license": "All-Rights-Reserved",

@@ -1,4 +1,4 @@
-# Spoofer
+# Spoofer+
 
 A Minecraft mod that lets you **spoof (fake!) your F3 menu and Mod Menu list**.
 Currently, in **BETA**.
