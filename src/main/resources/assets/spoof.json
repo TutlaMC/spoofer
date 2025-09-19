@@ -27,19 +27,19 @@
       "title": "X",
       "value": 0,
       "default": 0,
-      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+      "tooltip": "Your X offset/fixed position"
     },
     "y": {
       "title": "Y",
       "value": 0,
       "default": 0,
-      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+      "tooltip": "Your Y offset/fixed position"
     },
     "z": {
       "title": "Z",
       "value": 0,
       "default": 0,
-      "tooltip": "Use negative numbers to reduce fps, use positive numbers to increase it"
+      "tooltip": "Your Z offset/fixed position"
     }
   }
 }
